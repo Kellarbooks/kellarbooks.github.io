@@ -156,24 +156,3 @@ function NanoSpaceMenu(container) {
 
 
 }
-/*
-     FILE ARCHIVED ON 15:25:00 Mar 08, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 06:20:46 Feb 19, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.569
-  exclusion.robots: 0.017
-  exclusion.robots.policy: 0.008
-  esindex: 0.011
-  cdx.remote: 5.987
-  LoadShardBlock: 137.908 (3)
-  PetaboxLoader3.datanode: 227.002 (6)
-  PetaboxLoader3.resolve: 167.379 (3)
-  load_resource: 325.694 (2)
-  loaddict: 35.381
-*/

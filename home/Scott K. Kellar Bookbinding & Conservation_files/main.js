@@ -212,24 +212,3 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 })();
 
 }
-/*
-     FILE ARCHIVED ON 03:21:41 Apr 10, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 06:20:45 Feb 19, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.841
-  exclusion.robots: 0.029
-  exclusion.robots.policy: 0.013
-  esindex: 0.015
-  cdx.remote: 57.898
-  LoadShardBlock: 157.31 (3)
-  PetaboxLoader3.datanode: 116.829 (6)
-  PetaboxLoader3.resolve: 201.376 (3)
-  load_resource: 189.47 (2)
-  loaddict: 26.433
-*/

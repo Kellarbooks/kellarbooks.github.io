@@ -95,24 +95,3 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 
 
 }
-/*
-     FILE ARCHIVED ON 15:24:56 Mar 08, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 06:31:04 Feb 19, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.573
-  exclusion.robots: 0.027
-  exclusion.robots.policy: 0.015
-  esindex: 0.011
-  cdx.remote: 5.276
-  LoadShardBlock: 113.74 (3)
-  PetaboxLoader3.datanode: 144.876 (6)
-  PetaboxLoader3.resolve: 143.132 (3)
-  load_resource: 202.675 (2)
-  loaddict: 39.109
-*/
